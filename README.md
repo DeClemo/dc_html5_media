@@ -1,7 +1,7 @@
-ezAudioConvert
+DC HTML5 Media
 ==============
 
-Audio conversion extension for eZ Publish 4.x
+HTML 5 Media extension for eZ Publish Legacy
 
 Dependancies
 ==============
