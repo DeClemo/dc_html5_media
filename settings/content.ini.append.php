@@ -1,7 +1,7 @@
 <?php /*
 
 [DataTypeSettings]
-ExtensionDirectories[]=dc_media
+ExtensionDirectories[]=dc_html5_media
 AvailableDataTypes[]=dcmedia
 
 */?>

@@ -1,6 +1,6 @@
 <?php /*
 
 [TemplateSettings]
-ExtensionAutoloadPath[]=dc_media
+ExtensionAutoloadPath[]=dc_html5_media
 
 */ ?>
